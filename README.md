@@ -5,4 +5,4 @@ The application predicts the price of diamonds.
 
 The final result can be seen (https://samarra.shinyapps.io/projeto2/).
 
-The presentation explaining the application can be seen [
+The presentation explaining the application can be seen [http://rpubs.com/samara7/410365]
